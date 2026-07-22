@@ -1,0 +1,12 @@
+{
+  "redirects": [
+    { "source": "/detail_projects.html", "destination": "/", "permanent": true },
+    { "source": "/detail_projects", "destination": "/", "permanent": true },
+    { "source": "/detail_categories.html", "destination": "/", "permanent": true },
+    { "source": "/detail_categories", "destination": "/", "permanent": true },
+    { "source": "/detail_services.html", "destination": "/", "permanent": true },
+    { "source": "/detail_services", "destination": "/", "permanent": true },
+    { "source": "/style-guide.html", "destination": "/", "permanent": true },
+    { "source": "/style-guide", "destination": "/", "permanent": true }
+  ]
+}
